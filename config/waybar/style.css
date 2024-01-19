@@ -45,3 +45,11 @@ window#waybar {
     background-color: #2e332f;
     color: rgb(226, 218, 218);
 }
+#custom.cava {
+    color: #8FBC8F;
+    border-left: 0px;
+    border-right: 0px;
+    padding-bottom: 6px;
+    font-family: "bargraph";
+    font-size: 22px;
+}        

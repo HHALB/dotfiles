@@ -26,3 +26,12 @@ blue    = '#caa9fa'
 magenta = '#ff79c6'
 cyan    = '#8be9fd'
 white   = '#ffffff'
+
+[shell]
+program = "/usr/bin/fish"
+
+[font.normal]
+family = "JetBrains Mono"
+
+
+
